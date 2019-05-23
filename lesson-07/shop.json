@@ -1,0 +1,90 @@
+﻿/* 1 */
+{
+    "_id" : ObjectId("5ce67c4c3bd487e667fd6d72"),
+    "name" : "Intel Core i3-8100",
+    "description" : "",
+    "price" : "",
+    "created_at" : "",
+    "catalog_id" : 1
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5ce67c5a3bd487e667fd6d73"),
+    "name" : "Intel Core i5-7400",
+    "description" : "",
+    "price" : "",
+    "created_at" : "",
+    "catalog_id" : 1
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5ce67c683bd487e667fd6d74"),
+    "name" : "AMD FX-8320E",
+    "description" : "",
+    "price" : "",
+    "created_at" : "",
+    "catalog_id" : 1
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5ce67c733bd487e667fd6d75"),
+    "name" : "AMD FX-8320",
+    "description" : "",
+    "price" : "",
+    "created_at" : "",
+    "catalog_id" : 1
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5ce67c7d3bd487e667fd6d76"),
+    "name" : "ASUS ROG MAXIMUS X HERO",
+    "description" : "",
+    "price" : "",
+    "created_at" : "",
+    "catalog_id" : 2
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5ce67c883bd487e667fd6d77"),
+    "name" : "Gigabyte H310M S2H",
+    "description" : "",
+    "price" : "",
+    "created_at" : "",
+    "catalog_id" : 2
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5ce67c943bd487e667fd6d78"),
+    "name" : "MSI B250M GAMING PRO",
+    "description" : "",
+    "price" : "",
+    "created_at" : "",
+    "catalog_id" : 2
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5ce67d453bd487e667fd6d79"),
+    "name" : "CPUs",
+    "catalog_id" : 1
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5ce67d4c3bd487e667fd6d7a"),
+    "name" : "Main boards",
+    "catalog_id" : 2
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5ce67d543bd487e667fd6d7b"),
+    "name" : "Video cards",
+    "catalog_id" : 3
+}
